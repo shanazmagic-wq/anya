@@ -1,0 +1,29 @@
+css
+/* This is a comment in CSS */
+
+body {
+    font-family: Arial, sans-serif;
+    background: hotpink;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: black; /* Dark grey color */
+}
+
+p {
+    color: #666; /* Medium grey color */
+    line-height: 1.6;
+}
+
+
+img { width: 200px;
+
+}
+
+
+
+
